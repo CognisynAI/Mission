@@ -8,7 +8,7 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Target Audience:** The game will be accessible to a wide range of participants – from ordinary people, to scientists, policymakers, legal experts, technologists, students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
-**Scenario-Based Gameplay:** Players face various scenarios in partnership with AI agents that impact humans and nature, and build the concept of life centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
+**Scenario-Based Gameplay:** Players face various scenarios in partnership with AI agents that impact humans and nature, and build the concepts of life centered AI together. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
 **Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game.
 
@@ -16,7 +16,7 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Education and Learning:** The game will have an educational aspect, teaching players about AI technologies, environmental science, legal principles, and ethical considerations. This will make the game more accessible to those without a background in these areas.
 
-**Integrated Reinforcement Learning for AI:** Reinforcement learning will be used to adapt the game scenarios, and behavior of AI agents in the game, based on player decisions, creating a dynamic environment that evolves over time.
+**Integrated Reinforcement Learning with Human feedback for AI:** Reinforcement learning will be used to adapt the game scenarios, and behavior of AI agents in the game, based on player decisions, creating a dynamic environment that evolves over time.
 
 **Public Engagement and Transparency:** 
 Outcomes of the game sessions and the evolving draft of the Bill of Rights will be published regularly to encourage public engagement and transparency.
