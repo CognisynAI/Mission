@@ -137,7 +137,7 @@ A system dependency map visualizing the relationships and dependencies between v
 * Dependent on game scenarios and player progress.
 
 **DATA STRUCTURES**
-  The design of data structures is critical for managing the complex information within the game.
+  The design of data structures is critical to manage the complex information within the game.
   **Key structures might include:**
 *  Player Data:
   * Personal information (anonymized for privacy).
@@ -296,7 +296,7 @@ GLOBAL REPRESENTATION
   
   Cloud-Based Data Handling: Leverage cloud computing to handle the extensive data processing requirements, ensuring smooth gameplay even with      detailed geospatial data.
   
-  By incorporating multidimensional geospatial data from sources like BlackShark.ai, the simulation game can provide an exceptionally realistic, immersive platform, enabling players to deeply understand and engage with the challenges of creating a Bill of Rights for Nature and Humans in the AI Era.
+  By incorporating multidimensional geospatial data from sources e.g BlackShark.ai, the simulation game can provide an exceptionally realistic, immersive platform, enabling players to deeply understand and engage with the challenges of creating a Bill of Rights for Nature and Humans in the AI Era.
 
 
 
