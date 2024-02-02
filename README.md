@@ -130,7 +130,7 @@ A system dependency map visualizing the relationships and dependencies between v
 
 **Cloud Computing Resources:**
 * Support for data processing and storage.
-* Hosting the game servers for multiplayer interaction.
+* Hosting the game servers for multiplayer interaction and persistent cloud based agents.
   
 **Educational Content and Modules:**
 * Integrated with gameplay to provide learning opportunities.
