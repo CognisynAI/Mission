@@ -6,7 +6,7 @@ We are building a simulation/game about the future of our planet and AI, bringin
 **Game Objective:**
 Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and Humans in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus.
 
-**Target Audience:** The game should be accessible to a wide range of participants – from ordinary people, to scientists, policymakers, legal experts, and technologists to students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
+**Target Audience:** The game will be accessible to a wide range of participants – from ordinary people, to scientists, policymakers, legal experts, and technologists to students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
 **Scenario-Based Gameplay:** Players face various scenarios where AI technologies impact humans and nature. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
