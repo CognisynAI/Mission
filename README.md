@@ -23,7 +23,7 @@ Outcomes of the game sessions and the evolving draft of the Bill of Rights will 
 
 **Final Outcome:** The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
 
-## **REPRESENTING NATURE IN A SIMULATION**
+### **REPRESENTING NATURE IN A SIMULATION**
 
 **Dynamic Ecosystem Simulations:** 
   Including forests, oceans, urban environments, and agricultural lands. 
@@ -66,7 +66,7 @@ Scenarios where players need to work alongside nature, like restoring a damaged 
 **Storytelling and Narratives:**
 Storytelling to convey the history, struggles, and beauty of the natural world, to create emotional connections and a deeper understanding of environmental issues. 
 
-## **REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING:**
+### **REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING:**
 
 **Incorporate Environmental Data:**
 Integrate real-time environmental data into the Reinforcement Learning algorithm. This could include data on climate change, biodiversity, pollution levels, and other ecological indicators. By basing game scenarios on actual environmental conditions, the Reinforcement Learning system can reflect the state and needs of nature more accurately.
