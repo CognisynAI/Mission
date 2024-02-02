@@ -1,7 +1,7 @@
 
 # MISSION
 
-We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game based on life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we are creating a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, so we can design a better future for our planet and AI together.
+We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game based on life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we can create a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, and put the tools of prediction in everyone's hands, so we can design a better future for our planet and AI together.
 
 **Game Objective:**
 Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and Humans in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus.
