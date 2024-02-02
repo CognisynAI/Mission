@@ -89,7 +89,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
   Provide informative feedback to players about the consequences of their actions. This will include explanations of how certain policies or decisions impact AI ethics, human rights, or environmental health.
 
 **Real-World Correlations:**
-  Draw parallels between game scenarios and real-world events to help players understand the complexity of these issues in real life and the importance of their virtual decisions.
+  Make connections between game scenarios and real-world events to enable understanding of the complexity of these issues in real life and the importance of virtual decisions.
 
 **Interactive Learning Modules:**
   Incorporate interactive modules or mini-games that focus on specific topics like AI ethics, environmental science, or policy-making. This can provide deeper insights and learning opportunities.
