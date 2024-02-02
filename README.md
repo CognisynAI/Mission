@@ -23,7 +23,7 @@ Outcomes of the game sessions and the evolving draft of the Bill of Rights will 
 
 **Final Outcome:** The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
 
-REPRESENTING NATURE IN A SIMULATION
+## **REPRESENTING NATURE IN A SIMULATION**
 
 **Dynamic Ecosystem Simulations:** 
   Including forests, oceans, urban environments, and agricultural lands. 
