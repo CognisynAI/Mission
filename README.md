@@ -86,7 +86,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **ENRICHING PEOPLE WITH FEEDBACK:**
 
 **Educational Feedback:**
-  Provide informative feedback to players about the consequences of their actions. This will include explanations of how certain policies or decisions impact AI ethics, human rights, or environmental health.
+  Provide informative feedback to players about outcomes of their actions. This will include explanations of how certain policies or decisions impact AI ethics, human rights, or environmental health.
 
 **Real-World Correlations:**
   Make connections between game scenarios and real-world events to enable understanding of the complexity of these issues in real life and the importance of virtual decisions.
