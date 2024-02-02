@@ -52,7 +52,7 @@ A diverse range of species and habitats will be introduced within the game. Each
 * 'Voices' or representatives are assigned to various aspects of nature, such as a council of virtual wildlife experts or an AI that speaks for the forests or oceans, providing feedback and making requests of the players.
   
 **Environmental Challenges and Disasters:**
-Challenges like natural disasters can be introduced into the game/simulation, which can be both a result of player actions (such as climate change leading to more severe weather events) and random occurrences. This adds an element of unpredictability and urgency to address environmental issues.
+Challenges like natural disasters, introduced into the game/simulation, can be both a result of player actions (such as climate change leading to more severe weather events) and random occurrences. This adds an element of unpredictability and urgency to address environmental issues.
     
 **Sustainability Metrics:**
 Sustainability metrics are introduced in the game, such as carbon footprints, biodiversity indexes, or pollution levels, which players must manage and improve.  
