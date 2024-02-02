@@ -16,7 +16,7 @@ A Bill of Rights For The AI Era. Players from around the world collaborate to dr
 
 **Education and Learning:** The game will have an educational aspect, teaching players about AI technologies, environmental science, legal principles, and ethical considerations. This will make the game more accessible to those without a background in these areas.
 
-**Integrated Reinforcement Learning with Human Feedback (RLHF):** Reinforcement learning will be used to adapt and improve the game scenarios, and AI agents in the game, based on player interactions and decisions, creating a virtuous cycle betweem agents and people in a dynamic environment that evolves over time.
+**Integrated Reinforcement Learning with Human Feedback (RLHF):** Reinforcement learning to adapt and improve the game scenarios, and AI agents, based on player interactions and decisions, creating a virtuous cycle betweem AI agents and people in a dynamic environment that evolves over time.
 
 **Public Engagement and Transparency:** 
 Outcomes of the game sessions and the evolving draft of the Bill of Rights will be published regularly to encourage public engagement and transparency.
