@@ -130,7 +130,7 @@ A system dependency map visualizing the relationships and dependencies between v
 
 **Cloud Computing Resources:**
 * Support for data processing and storage.
-* Hosting the game servers for multiplayer interaction/ contianers for persistent cloud based agents.
+* Hosting the game servers for multiplayer interaction/contianers for persistent cloud based agents.
   
 **Educational Content and Modules:**
 * Integrated with gameplay to provide learning opportunities.
@@ -224,7 +224,7 @@ To aid in visualizing unique scenarios based on text inputs, allowing the game t
     
 MVDream
     
-3D Rendering: MVDream, known for creating impressive 3D renderings from text, can be used to generate detailed and realistic 3D models of         various elements within the game, such as animals, plants, and ecological systems.
+3D Rendering: MVDream, known for creating impressive 3D renderings from text, to generate detailed and realistic 3D models of         various elements within the game, such as animals, plants, and ecological systems.
     
 Realism and Detail is the language of nature: The ability to create high-quality 3D assets will enhance the realism of the game, making the       experience more engaging and informative for the players.
     
