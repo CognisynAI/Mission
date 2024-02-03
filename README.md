@@ -1,13 +1,23 @@
 
 <a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="30%" height="auto"></a> 
 
-# MISSION:
+
 
 T.O.C.
+- [MISSION:](#MISSION:)
 - [REPRESENTING NATURE IN A SIMULATION](#REPRESENTING-NATURE-IN-A-SIMULATION)
-- [SYSTEM DEPENDENCY MAP](#SYSTEM-DEPENDENCY-MAP)
 - [REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING](#REFLECTING-THE-PERSPECTIVE-OF-NATURE-IN-REINFORCEMENT-LEARNING)
+- [ENRICHING PEOPLE WITH FEEDBACK:](#ENRICHING-PEOPLE-WITH-FEEDBACK:)
+- [SYSTEM DEPENDENCY MAP](#SYSTEM-DEPENDENCY-MAP)
+- [DATA STRUCTURES](#DATA-STRUCTURES)
+- [ECONOMY AND CURRENCY SYSTEM](#ECONOMY-AND-CURRENCY-SYSTEM)
+- [CREATING A RICH INTERACTIVE IMMERSIVE EXPERIENCE](#CREATING-A-RICH-INTERACTIVE-IMMERSIVE-EXPERIENCE)
+- [EDUCATIONAL AND ENGAGEMENT CONCEPTS](#EDUCATIONAL-AND-ENGAGEMENT-CONCEPTS)
+- [REAL WORLD GEOSPATIAL MAPPING](#REAL-WORLD-GEOSPATIAL-MAPPING)
+- [ACCESSIBILITY AND SCALABILITY](ACCESSIBILITY-AND-SCALABILITY)
 
+
+# MISSION:
 We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game with life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we can create a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, and put tools of prediction in everyone's hands, so we can design a better future for our planet and AI together.
 
 **Game Objective:**
@@ -325,7 +335,7 @@ Real-world geography can be used for educational modules within the game, teachi
 * Urban Planning and Development Scenarios: 
   Incorporate urban planning and development scenarios where players must balance development needs with environmental conservation, using real-world data to guide their decisions.
   
-### **Accessibility and Scalability**
+### **ACCESSIBILITY AND SCALABILITY**
 
 * Scalable Complexity: 
   While offering detailed and realistic environments, the game will balance complexity with accessibility, ensuring that players with different  levels of expertise can engage and learn.
