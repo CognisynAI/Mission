@@ -1,5 +1,5 @@
 
-<a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="10%" height="auto"></a> 
+<a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="30%" height="auto"></a> 
 
 # MISSION:
 
