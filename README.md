@@ -1,5 +1,7 @@
 
-# <a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="10%" height="auto"></a> MISSION:
+<a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="10%" height="auto"></a> 
+
+# MISSION:
 
 
 We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game with life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we can create a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, and put tools of prediction in everyone's hands, so we can design a better future for our planet and AI together.
@@ -84,7 +86,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **Dynamic Feedback Loops:**
   Create dynamic feedback loops where the state of the environment in the game influences the challenges and scenarios players face. This makes the health of the environment a direct factor in gameplay success.
 
-**ENRICHING PEOPLE WITH FEEDBACK:**
+### **ENRICHING PEOPLE WITH FEEDBACK:**
 
 **Educational Feedback:**
   Provide informative feedback to players about outcomes of their actions. This will include explanations of how certain policies or decisions impact AI ethics, human rights, or environmental health.
@@ -110,7 +112,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **Reward System for Learning:**
   Implement a reward system that encourages not just game progression but also learning and understanding of the issues at hand.
 
-**SYSTEM DEPENDENCY MAP**
+### **SYSTEM DEPENDENCY MAP**
 A system dependency map visualizing the relationships and dependencies between various components of the simulation game. Key components might include:
 
 * AI Technologies (ControlNet, MVDream, Language Embedded NeRFs, ReadyPlayerMe):
@@ -137,7 +139,7 @@ A system dependency map visualizing the relationships and dependencies between v
 * Integrated with gameplay to provide learning opportunities.
 * Dependent on game scenarios and player progress.
 
-**DATA STRUCTURES**
+### **DATA STRUCTURES**
   The design of data structures is critical to manage the complex information within the game.
   **Key structures might include:**
 *  Player Data:
@@ -172,7 +174,7 @@ A system dependency map visualizing the relationships and dependencies between v
 * Ensure that data structures are designed for interoperability between different systems and components.
 * Use standardized data formats and APIs for seamless integration and data exchange.
 
-**ECONOMY AND CURRENCY SYSTEM**
+### **ECONOMY AND CURRENCY SYSTEM**
   Virtual Currency: Implement a form of virtual currency that players earn through participation, decision-making, educational activities, and other contributions within the game.
 
 **Earned Through Achievements:**
@@ -273,7 +275,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 * Balancing Complexity and Accessibility: 
   * While these technologies can significantly enhance the game's realism and interactivity, it's important to balance complexity with  accessibility, ensuring that the game remains user-friendly for a diverse audience.
     
-**EDUCATIONAL AND ENGAGEMENT CONCEPTS**
+### **EDUCATIONAL AND ENGAGEMENT CONCEPTS**
     
 * Educational Content:
   * Leveraging these technologies, for educational content delivery within the game, can greatly enhance the learning experience:
@@ -283,7 +285,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 * Engagement and Motivation:
   * The high level of realism and interactivity provided by these technologies can increase player engagement and motivation, making the learning process more enjoyable and effective.
 
-**REAL WORLD GEOSPATIAL MAPPING**
+### **REAL WORLD GEOSPATIAL MAPPING**
     
 Accurate Terrain Representation: e.g. BlackShark.ai's technology, which can convert satellite imagery into 3D maps, can be used to accurately     recreate real-world terrains and landscapes in the game. This would provide players with a more realistic and relatable environment.
     
@@ -319,7 +321,7 @@ Real-world geography can be used for educational modules within the game, teachi
 * Urban Planning and Development Scenarios: 
   Incorporate urban planning and development scenarios where players must balance development needs with environmental conservation, using real-world data to guide their decisions.
   
-**Accessibility and Scalability**
+### **Accessibility and Scalability**
 
 * Scalable Complexity: 
   While offering detailed and realistic environments, the game will balance complexity with accessibility, ensuring that players with different  levels of expertise can engage and learn.
