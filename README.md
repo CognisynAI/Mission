@@ -7,7 +7,7 @@
 - [MISSION:](#MISSION)
 - [REPRESENTING NATURE IN A SIMULATION](#REPRESENTING-NATURE-IN-A-SIMULATION)
 - [REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING](#REFLECTING-THE-PERSPECTIVE-OF-NATURE-IN-REINFORCEMENT-LEARNING)
-- [ENRICHING PEOPLE WITH FEEDBACK](#ENRICHING-PEOPLE-WITH-FEEDBACK)
+- [ENRICHING PEOPLE](#ENRICHING-PEOPLE)
 - [SYSTEM DEPENDENCY MAP](#SYSTEM-DEPENDENCY-MAP)
 - [DATA STRUCTURES](#DATA-STRUCTURES)
 - [ECONOMY AND CURRENCY SYSTEM](#ECONOMY-AND-CURRENCY-SYSTEM)
@@ -100,7 +100,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **Dynamic Feedback Loops:**
   Create dynamic feedback loops where the state of the environment in the game influences the challenges and scenarios players face. This makes the health of the environment a direct factor in gameplay success.
 
-### **ENRICHING PEOPLE WITH FEEDBACK:**
+### **ENRICHING PEOPLE:**
 
 **Educational Feedback:**
   Provide informative feedback to players about outcomes of their actions. This will include explanations of how certain policies or decisions impact AI ethics, human rights, or environmental health.
