@@ -66,7 +66,7 @@ A diverse range of species and habitats will be introduced within the game. Each
   
 **Nature as a Stakeholder:**
 * Nature not just as a backdrop, but as an active stakeholder in the game. 
-* 'Voices' or representatives are assigned to various aspects of nature, such as a council of virtual wildlife experts or an AI that speaks for the forests or oceans, providing feedback and making requests of the players.
+* AI agents provide 'Voices' or act as representatives, that are assigned to various aspects of nature, such as a council of virtual wildlife experts that speak for the forests or oceans, providing feedback and making requests of the players.
   
 **Environmental Challenges and Disasters:**
 Challenges like natural disasters, introduced into the game/simulation, can be both a result of player actions (such as climate change leading to more severe weather events) and random occurrences. This adds an element of unpredictability and urgency to address environmental issues.
@@ -287,7 +287,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
   * Integrating these technologies will require considerable effort to ensure that they work together seamlessly, providing a consistent and fluid experience.
     
 * Balancing Complexity and Accessibility: 
-  * While these technologies can significantly enhance the game's realism and interactivity, it's important to balance complexity with  accessibility, ensuring that the game remains user-friendly for a diverse audience.
+  * While these technologies can significantly enhance the game's realism and interactivity, it's important to balance complexity with accessibility, ensuring that the game remains user-friendly for a diverse audience.
     
 ### **EDUCATIONAL AND ENGAGEMENT CONCEPTS**
     
@@ -301,20 +301,20 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 
 ### **REAL WORLD GEOSPATIAL MAPPING**
     
-Accurate Terrain Representation: e.g. BlackShark.ai's technology, which can convert satellite imagery into 3D maps, can be used to accurately     recreate real-world terrains and landscapes in the game. This would provide players with a more realistic and relatable environment.
+Accurate Terrain Representation: e.g. BlackShark.ai's technology, which can convert satellite imagery into 3D maps, can be used to accurately recreate real-world terrains and landscapes in the game. This would provide players with a more realistic and relatable environment.
     
-Dynamic Environmental Simulation: The multidimensional data can be used to simulate environmental changes over time, reflecting the impact of     player decisions and natural processes on the game's world.
+Dynamic Environmental Simulation: The multidimensional data can be used to simulate environmental changes over time, reflecting the impact of player decisions and natural processes on the game's world.
     
 Integration with Unreal Engine
     
-High-Quality Visuals: Unreal Engine is known for its high-fidelity graphics. Working with BlackShark.ai's geospatial data with Unreal Engine      can result in visually stunning and immersive environments. 
+High-Quality Visuals: Unreal Engine is known for its high-fidelity graphics. Working with BlackShark.ai's geospatial data with Unreal Engine can result in visually stunning and immersive environments. 
   
 Interactive and Responsive Environments: 
-The combination allows for the creation of environments that are not only visually realistic but also interactive. Players can see the direct     impact of their actions on the virtual world in real-time.
+The combination allows for the creation of environments that are not only visually realistic but also interactive. Players can see the direct impact of their actions on the virtual world in real-time.
   
 Enhancing Gameplay with Realism
 Scenario-Based Challenges:
-Use real-world geographic data to create specific environmental challenges. For example, players might need to address rising sea levels in a     coastal city or manage the impact of urban sprawl on natural habitats.
+Use real-world geographic data to create specific environmental challenges. For example, players might need to address rising sea levels in a coastal city or manage the impact of urban sprawl on natural habitats.
   
 Educational Opportunities:
 Real-world geography can be used for educational modules within the game, teaching players about geography, ecology, and environmental science.
@@ -338,7 +338,7 @@ Real-world geography can be used for educational modules within the game, teachi
 ### **ACCESSIBILITY AND SCALABILITY**
 
 * Scalable Complexity: 
-  While offering detailed and realistic environments, the game will balance complexity with accessibility, ensuring that players with different  levels of expertise can engage and learn.
+  While offering detailed and realistic environments, the game will balance complexity with accessibility, ensuring that players with different levels of expertise can engage and learn.
   
 * Cloud-Based Data Handling:
   Leverage cloud computing to handle the extensive data processing requirements, ensuring smooth gameplay even with detailed geospatial data.
