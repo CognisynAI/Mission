@@ -47,7 +47,7 @@ Outcomes of the game sessions and the evolving draft of the Bill of Rights will 
   Changes in these ecosystems, based on player decisions, provide direct feedback on the environmental impact of those decisions.
   
 **Real-Time Environmental Data Integration:** 
-  Deploying The IUCN Global Ecosystem FunctionalTypology a hierarchical classification system that, in its upper levels, defines ecosystems by their convergent ecological functions and, in its lower levels, distinguishes ecosystems with contrasting assemblages of species engaged in those functions. 
+  Deploying The IUCN Global Ecosystem Functional Typology a hierarchical classification system that, in its upper levels, defines ecosystems by their convergent ecological functions and, in its lower levels, distinguishes ecosystems with contrasting assemblages of species engaged in those functions. 
   
 **Public Databases that support and/or are compatible with the IUCN's typology for ecosystems include:**
 * Global Biodiversity Information Facility (GBIF)
