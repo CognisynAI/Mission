@@ -66,7 +66,7 @@ A diverse range of species and habitats will be introduced within the game. Each
   
 **Nature as a Stakeholder:**
 * Nature not just as a backdrop, but as an active stakeholder in the game. 
-* AI agents provide 'Voices' that act as representatives, assigned to various aspects of nature, such as a council of virtual wildlife experts that speak for the forests or oceans, providing feedback and making requests of the players.
+* AI agents provide 'Voices' for various aspects of nature and other species, that can act as representatives, and can speak on a council for the forests or oceans, and other species. providing feedback and making requests of the players.
   
 **Environmental Challenges and Disasters:**
 Challenges like natural disasters, introduced into the game/simulation, can be both a result of player actions (such as climate change leading to more severe weather events) and random occurrences. This adds an element of unpredictability and urgency to address environmental issues.
