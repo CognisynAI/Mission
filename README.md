@@ -25,7 +25,7 @@ We are building a simulation/game about the future of our planet and AI, bringin
 
 **Target Audience:** The game will be accessible to a wide range of participants – people living far from nature, farmers, scientists, policymakers, legal experts, technologists, students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
-**Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and nature, and build concepts of life Centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
+**Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and nature, and build concepts of life-centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
 **Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game.
 
