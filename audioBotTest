@@ -2,6 +2,7 @@
 # audioBotTest using google's speech_recognition to capture and translate speech to text
 #              and Hugging Face's transformers for the pipeline to their text based Chat-Bot (CB)
 #              and Mac OS's buitin Text To Speech (TTS)
+#  SLOW, but WORKS as POC!
 
 from transformers import pipeline, Conversation       # access to HuggingFace's text based chat-bot
 import speech_recognition as sr                       # Google's speech recognition module
