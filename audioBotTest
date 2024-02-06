@@ -1,0 +1,41 @@
+#!/usr/local/bin/python3
+# audioBotTest using google's speech_recognition to capture and translate speech to text
+#              and Hugging Face's transformers for the pipeline to their text based Chat-Bot (CB)
+#              and Mac OS's buitin Text To Speech (TTS)
+
+from transformers import pipeline, Conversation       # access to HuggingFace's text based chat-bot
+import speech_recognition as sr                       # Google's speech recognition module
+import os
+
+# Initialize chatbot
+chatbot = pipeline('conversational')
+
+def get_chatbot_response(text):
+    conversation = Conversation(text)                 # Create a Conversation object
+    response = chatbot(conversation)                  # Generate a response
+    response_text = response.generated_responses[-1]  # Get the last response
+    print(response_text)
+    return response_text
+
+def speak(text):
+    os.system(f'say "{text}"')                        # Use macOS's built-in TTS (TextToSpeech)
+
+recognizer = sr.Recognizer()                          # Initialize speech recognizer
+
+#                                  Main loop
+while True:                                                    # remain in loop forever
+    with sr.Microphone() as source:
+        print("Listening...")                                  # prompt user to say something
+        audio = recognizer.listen(source)                      # get an audio sample
+
+        try:
+            input_text = recognizer.recognize_google(audio)    # see if google can make anything of it
+            print("You said: " + input_text)                   # display results
+
+            response_text = get_chatbot_response(input_text)   # pass results to Chat-Bot & get response
+            print("Chatbot: " + response_text)                 # display CB's response
+            speak(response_text)                               # vocalize the response
+        except sr.UnknownValueError:
+            print("Could not understand audio")
+        except sr.RequestError:
+            print("Could not request results")
