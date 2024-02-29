@@ -132,7 +132,7 @@ A system dependency map visualizing the relationships and dependencies between v
 * AI Technologies (ControlNet, MVDream, Language Embedded NeRFs, ReadyPlayerMe):
 
 * Dependency on user input and environmental data for generating scenarios.
-* Interaction with the Unreal Engine for rendering and visualizing content.
+* Interaction with the Unreal Engine, Bevy, etc for rendering and visualizing content.
   * Central platform for rendering game visuals.
   * Dependent on AI technologies for content creation and geospatial data for environment generation.
 * Geospatial Data (e.g. BlackShark.ai).
