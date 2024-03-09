@@ -126,32 +126,6 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **Reward System for Learning:**
   Implement a reward system that encourages not just game progression but also learning and understanding of the issues at hand.
 
-### **SYSTEM DEPENDENCY MAP**
-A system dependency map visualizing the relationships and dependencies between various components of the simulation game. Key components might include:
-
-* AI Technologies (ControlNet, MVDream, Language Embedded NeRFs, ReadyPlayerMe):
-
-* Dependency on user input and environmental data for generating scenarios.
-* Interaction with the Unreal Engine, Bevy, etc for rendering and visualizing content.
-  * Central platform for rendering game visuals.
-  * Dependent on AI technologies for content creation and geospatial data for environment generation.
-* Geospatial Data (e.g. BlackShark.ai).
-* Integration with environmental models to simulate real-world scenarios.
-  * Receive data from geospatial platform e.g. BlackShark.ai and player inputs to simulate environmental changes.
-  * Influence game scenarios and player challenges based on environmental state.
-* Dependency on cloud computing resources for data processing.
-
-**Player Interface:**
-* Receives input from players.
-* Displays game output, including visualizations and feedback.
-
-**Cloud Computing Resources:**
-* Support for data processing and storage.
-* Hosting the game servers for multiplayer interaction/containers for persistent cloud based agents.
-  
-**Educational Content and Modules:**
-* Integrated with gameplay to provide learning opportunities.
-* Dependent on game scenarios and player progress.
 
 ### **DATA STRUCTURES**
   The design of data structures is critical to manage the complex information within the game.
@@ -346,7 +320,32 @@ Real-world geography can be used for educational modules within the game, teachi
 **By incorporating multidimensional geospatial data from sources e.g BlackShark.ai, the simulation game can provide an exceptionally realistic, immersive platform, enabling players to deeply understand and engage with the challenges of creating a Bill of Rights for Nature and Humans in the Era of emerging Generative AI.**
 
 
+### **SYSTEM DEPENDENCY MAP**
+A system dependency map visualizing the relationships and dependencies between various components of the simulation game. Key components might include:
 
+* AI Technologies (ControlNet, MVDream, Language Embedded NeRFs, ReadyPlayerMe):
+
+* Dependency on user input and environmental data for generating scenarios.
+* Interaction with the Unreal Engine, Bevy, etc for rendering and visualizing content.
+  * Central platform for rendering game visuals.
+  * Dependent on AI technologies for content creation and geospatial data for environment generation.
+* Geospatial Data (e.g. BlackShark.ai).
+* Integration with environmental models to simulate real-world scenarios.
+  * Receive data from geospatial platform e.g. BlackShark.ai and player inputs to simulate environmental changes.
+  * Influence game scenarios and player challenges based on environmental state.
+* Dependency on cloud computing resources for data processing.
+
+**Player Interface:**
+* Receives input from players.
+* Displays game output, including visualizations and feedback.
+
+**Cloud Computing Resources:**
+* Support for data processing and storage.
+* Hosting the game servers for multiplayer interaction/containers for persistent cloud based agents.
+  
+**Educational Content and Modules:**
+* Integrated with gameplay to provide learning opportunities.
+* Dependent on game scenarios and player progress.
 
 
 
