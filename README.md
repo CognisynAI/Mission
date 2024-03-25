@@ -27,7 +27,9 @@ We are building a simulation/game about the future of our planet and AI, bringin
 
 **Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and nature, and build concepts of life-centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
-**Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. Key areas of work include, improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. 
+**Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. Key areas of work include, improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance both cooperative AI, human cooperation capabilities, and AI safety and alignment.
+
+
 
 **Collaborative Tools:** The game will provide tools within the game for drafting documents, voting, holding discussions, and forming coalitions or groups. This will simulate real-world legislative and policy-making processes and reimagine them.
 
