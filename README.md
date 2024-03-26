@@ -29,7 +29,7 @@ We are building a simulation/game about the future of our planet and AI, bringin
 
 **Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. 
 
-**Research and Developent** areas include: reimagining RLHF,improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
+**Research and Developent** areas include: reimagining RLHF, improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
 
 
 
