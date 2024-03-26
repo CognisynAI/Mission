@@ -214,7 +214,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
     
 **ReadyPlayerMe**
 * Avatar Creation: 
-  * ReadyPlayerMe offers the capability for players to create their own custom avatars.
+  * Ready Player Me capabilities for players to create their own custom avatars.
     
 * Social Interaction: 
   * With personalized avatars, the game can facilitate more meaningful social interactions among players, essential for collaborative decision-making processes in the game.
