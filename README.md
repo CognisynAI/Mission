@@ -29,15 +29,11 @@ We are building a simulation/game about the future of our planet and AI, bringin
 
 **Feedback Mechanisms:** Incorporates AI-driven simulation models that can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. 
 
-**Research and Developent** areas include: reimagining RLHF, improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
-
-
+**Research and Developent** areas include: reimagining RLHF(Reinforcement Learning with Human Feedback), improving cooperation of AI agents, understanding multiagent learning in changing environments, collective cooperative intelligence, and bridging multiagent learning with game theory and complex systems research. Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
 
 **Collaborative Tools:** The game will provide tools within the game for drafting documents, voting, holding discussions, and forming coalitions or groups. This will simulate real-world legislative and policy-making processes and reimagine them.
 
 **Education and Learning:** The game will have an educational aspect, teaching players about AI technologies, environmental science, legal principles, and ethical considerations. This will make the game more accessible to those without a background in these areas.
-
-**Integrated Reinforcement Learning with Human Feedback (RLHF):** Reinforcement learning to adapt and improve the game scenarios, and AI agents, based on player interactions and decisions, creating a virtuous cycle betweem AI agents and people in a dynamic environment that evolves over time.
 
 **Public Engagement and Transparency:** 
 Outcomes of the game sessions and the evolving draft of the Bill of Rights will be published regularly to encourage public engagement and transparency.
