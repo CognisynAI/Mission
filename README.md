@@ -20,6 +20,9 @@
 # MISSION:
 We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game with life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we can create a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, and put tools of prediction in everyone's hands, so we can design a better future for our planet and AI together.
 
+**MeltingPot**
+DeepMind's Melting Pot is a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex environments. It provides a rich platform for studying interactions in diverse scenarios, enabling researchers to understand and improve the collaborative capabilities of AI. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. These steps integrate game theory, complex systems design, and cooperative AI to foster human cooperation capabilities and facilitate the creation of an impactful document.
+
 **Game Objective:**
 **A Bill of Rights for the AI Era.** Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and People in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus on things like the rights of nature, human rights in the AI era, environmental sustainability, AI governance, ethical use of AI, access to technology, AI and employment, AI and art, and transhuman rights.
 
