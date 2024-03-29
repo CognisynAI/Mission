@@ -5,6 +5,7 @@
 
 **CONTENTS:**
 - [MISSION:](#MISSION)
+- [ADVANCING COOPERATIVE AI AND HUMAN COOPERATION] {#ADVANCING COOPERATIVE AI AND HUMAN COOPERATION}
 - [REPRESENTING NATURE IN A SIMULATION](#REPRESENTING-NATURE-IN-A-SIMULATION)
 - [REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING](#REFLECTING-THE-PERSPECTIVE-OF-NATURE-IN-REINFORCEMENT-LEARNING)
 - [ENRICHING PEOPLE](#ENRICHING-PEOPLE)
@@ -42,7 +43,7 @@ DeepMind's Melting Pot is a multi-agent simulation framework designed to test th
 
 **Feedback Mechanisms:** Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. Also a reimagining and integration RLHF(Reinforcement Learning with Human Feedback). 
 
-**ADVANCING COOPERATIVE AI AND HUMAN COOPERATION**
+### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION**
 Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
 
 **AI as Negotiation Agents**: Develop AI agents capable of negotiating with both humans and other AI agents to reach consensual decisions. These agents can use advanced algorithms to propose solutions that maximize collective welfare, learning from interactions to improve their proposals over time.
