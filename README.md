@@ -56,7 +56,12 @@ Human-AI Collaboration: Encourage real-time collaboration between human particip
 **Public Engagement and Transparency:** 
 Outcomes of the game sessions and the evolving draft of the Bill of Rights will be published regularly to encourage public engagement and transparency.
 
-**Final Outcome:** The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
+**A REAL WORLD BILL OF RIGHTS:** 
+The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
+
+**Crafting the Bill of Rights**
+Interactive Decision-Making: Through the game, participants work together to address specific issues, draft clauses, and revise proposals for the Bill of Rights. This process is iterative, with multiple rounds of discussion, simulation, and revision based on the outcomes of previous decisions.
+Consensus Building: Utilize the framework to identify policies and rights that receive broad support from both AI and human participants, focusing on solutions that balance technological advancement with the protection of nature and human rights.
 
 ### **REPRESENTING NATURE IN A SIMULATION**
 
