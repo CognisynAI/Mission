@@ -29,7 +29,7 @@ We are building a simulation/game about the future of our planet and AI, bringin
 **Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and nature, and build concepts of life-centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
 **Integrating Game Theory**
-Concepts from game theory, complex systems design, and COoperative AI will be integrated to foster human cooperation capabilities and facilitate the creation of an impactful document.
+Concepts from game theory, complex systems design, and Cooperative AI will be integrated to foster human cooperation capabilities and facilitate the creation of an impactful document.
 DeepMind's Melting Pot is a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex environments. It provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improving the collaborative capabilities of AI. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
 
 **Scenario Development**
