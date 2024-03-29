@@ -22,7 +22,8 @@
 We are building a simulation/game about the future of our planet and AI, bringing together nature, humans, and AI, to create a global simulation/game with life centered AI. In our divided world we are unable to address the global challenge of our collective future. Through play we can create a new way for people to relate to science and nature, to give nature and people a voice in the future of our planet and AI, and put tools of prediction in everyone's hands, so we can design a better future for our planet and AI together.
 
 **Game Objective:**
-**A Bill of Rights for the AI Era** Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and People in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus on things like the rights of nature, human rights in the AI era, environmental sustainability, AI governance, ethical use of AI, access to technology, AI and employment, AI and art, and transhuman rights.
+**A Bill of Rights for the AI Era** 
+Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and People in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus on things like the rights of nature, human rights in the AI era, environmental sustainability, AI governance, ethical use of AI, access to technology, AI and employment, AI and art, and transhuman rights.
 
 **Target Audience:** The game will be accessible to a wide range of participants – people living far from from or near to nature, farmers, scientists, policymakers, legal experts, technologists, students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
