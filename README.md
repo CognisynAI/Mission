@@ -227,7 +227,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 * Accessibility:
   * Ensure that the economy does not disadvantage players who have less time to invest in the game, maintaining fairness and inclusivity.
 
-* A thoughtful and balanced economy for the simulation/game can incentivize participation, education, and collaboration, aligning players' in-game activities with the overarching goal of developing a comprehensive and meaningful Bill of Rights for Nature and Humans in the AI era.
+* Incentivize participation, education, and collaboration, aligning players' in-game activities with the overarching goal of developing a comprehensive and meaningful Bill of Rights for A More Than Human World in the AI era.
 
 ## **CREATING A RICH INTERACTIVE IMMERSIVE EXPERIENCE**
 
