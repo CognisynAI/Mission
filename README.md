@@ -27,7 +27,7 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Target Audience:** The game will be accessible to a wide range of participants – people living far from or near to nature, farmers, scientists, policymakers, legal experts, technologists, students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
-**Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and nature, and build concepts of life-centered AI. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
+**Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and non human organisms and ecosystems. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
 **Integrating Game Theory:**
 Concepts from game theory, complex systems design, and Cooperative AI will be integrated to foster human cooperation capabilities and facilitate the creation of an impactful document.
