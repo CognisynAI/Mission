@@ -49,7 +49,7 @@ Can simulate the dynamic interactions between different agents and their environ
 Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public data sets and opinion surveys can be integrated to guide decision-making in the game. Reinforcement Learning with Human Feedback (RLHF) will be reimagined to include feedback from non human organisms and ecosystems. 
 
 **A Real World Bill of Rights:** 
-The ultimate goal will be to create a refined, well-thought-out Bill of Rights for People, Non human Organisms and Ecosystem in the AI Era that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
+The ultimate goal will be to create a refined, well-thought-out Bill of Rights for Nature and People in the AI Era that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION:**
 Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
