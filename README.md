@@ -37,7 +37,7 @@ DeepMind's Melting Pot is a multi-agent simulation framework designed to test th
 Diverse simulation environments created within Melting Pot can mirror real-world ecosystems, societal structures, and technological contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
 **Role Assignment:**
-Participants (both AI agents and human players) assume various roles representing different stakeholders, including nature advocates, non humans, policymakers, activists, and natural phenomena. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes towards nature and technology.
+Participants (both AI agents and human players) assume various roles representing different stakeholders, including non humans and natural phenomena, policymakers, activists, scientists and ordinary people, to understand, consider, and reimagine the rights of non human organisms and ecosystems, and new institutions of governance that would include such rights. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes and alternative perspectives towards nature and technology.
 
 **Game Theory Applications:**
 Game theory will be utilized to design scenarios where participants face dilemmas that mirror real-world challenges (e.g., tragedy of the commons, public goods game). These dilemmas require participants to negotiate, form alliances, and make decisions that can either lead to mutual benefit or collective loss, emphasizing the importance of cooperative strategies.
@@ -46,10 +46,10 @@ Game theory will be utilized to design scenarios where participants face dilemma
 Can simulate the dynamic interactions between different agents and their environment, allowing for emergent behaviors and outcomes. This approach can help identify stable strategies for cooperation and highlight the systemic impacts of individual actions on nature and society.
 
 **Feedback Mechanisms:**
-Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys can be integrated to guide decision-making in the game. Reimagining and integration RLHF(Reinforcement Learning with Human Feedback). 
+Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public data sets and opinion surveys can be integrated to guide decision-making in the game. Reimagining RLHF(Reinforcement Learning with Human Feedback) to include feedback from non human organisms and ecosystems. 
 
 **A Real World Bill of Rights:** 
-The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
+The ultimate goal will be to create a refined, well-thought-out Bill of Rights for People, Non human Organisms and Ecosystem in the AI Era that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION:**
 Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
