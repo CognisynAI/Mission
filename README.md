@@ -37,7 +37,7 @@ DeepMind's Melting Pot is a multi-agent simulation framework designed to test th
 Diverse simulation environments created within Melting Pot can mirror real-world ecosystems, societal structures, and technological contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
 **Role Assignment:**
-Participants (both AI agents and human players) assume various roles representing different stakeholders, including nature advocates, technologists, policymakers, and ordinary citizens. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes towards nature and technology.
+Participants (both AI agents and human players) assume various roles representing different stakeholders, including nature advocates, non humans, policymakers, and natural phenomena. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes towards nature and technology.
 
 **Game Theory Applications:**
 Game theory will be utilized to design scenarios where participants face dilemmas that mirror real-world challenges (e.g., tragedy of the commons, public goods game). These dilemmas require participants to negotiate, form alliances, and make decisions that can either lead to mutual benefit or collective loss, emphasizing the importance of cooperative strategies.
