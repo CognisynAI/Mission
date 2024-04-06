@@ -162,7 +162,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 
 ### **REGENERATIVE ECONOMICS**
 
-**Regenerative economics** Formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. An ecosystem may be a trust or a fund.
+**Regenerative economics** Formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. 
 
 **Virtual Currency** Implement a form of virtual currency that players (human and non human organisms) earn through participation, decision-making, educational activities, and other contributions within the game.
 
