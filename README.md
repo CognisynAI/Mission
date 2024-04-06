@@ -161,7 +161,10 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
   Implement a reward system that encourages not just game progression but also learning and understanding of the issues at hand.
 
 ### **ECONOMY AND CURRENCY SYSTEM**
-  Virtual Currency: Implement a form of virtual currency that players earn through participation, decision-making, educational activities, and other contributions within the game.
+
+**Regenerative economics** Formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. An ecosystem may be a trust or a fund.
+
+**Virtual Currency** Implement a form of virtual currency that players (human and non human organisms) earn through participation, decision-making, educational activities, and other contributions within the game.
 
 **Earned Through Achievements:**
 Currency can be earned by achieving certain milestones, such as:
