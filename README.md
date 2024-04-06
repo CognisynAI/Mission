@@ -31,13 +31,13 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Integrating Game Theory:**
 Concepts from game theory, complex systems design, and Cooperative AI will be integrated to foster human cooperation capabilities and facilitate the creation of an impactful document.
-DeepMind's Melting Pot is a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex environments. It provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improving the collaborative capabilities of AI. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
+DeepMind's Melting Pot is a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. It provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improving the collaborative capabilities of AI and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
 
 **Scenario Development:**
 Diverse simulation environments created within Melting Pot can mirror real-world ecosystems, societal structures, and technological contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
 **Role Assignment:**
-Participants (both AI agents and human players) assume various roles representing different stakeholders, including nature advocates, non humans, policymakers, and natural phenomena. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes towards nature and technology.
+Participants (both AI agents and human players) assume various roles representing different stakeholders, including nature advocates, non humans, policymakers, activists, and natural phenomena. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes towards nature and technology.
 
 **Game Theory Applications:**
 Game theory will be utilized to design scenarios where participants face dilemmas that mirror real-world challenges (e.g., tragedy of the commons, public goods game). These dilemmas require participants to negotiate, form alliances, and make decisions that can either lead to mutual benefit or collective loss, emphasizing the importance of cooperative strategies.
@@ -46,7 +46,7 @@ Game theory will be utilized to design scenarios where participants face dilemma
 Can simulate the dynamic interactions between different agents and their environment, allowing for emergent behaviors and outcomes. This approach can help identify stable strategies for cooperation and highlight the systemic impacts of individual actions on nature and society.
 
 **Feedback Mechanisms:**
-Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys will be integrated to guide decision-making in the game. Also a reimagining and integration RLHF(Reinforcement Learning with Human Feedback). 
+Incorporating AI-driven simulation models can predict the outcomes of certain policies or decisions. Additionally, feedback from natural ecosystems (through data on environmental impacts) and public opinion surveys can be integrated to guide decision-making in the game. Reimagining and integration RLHF(Reinforcement Learning with Human Feedback). 
 
 **A Real World Bill of Rights:** 
 The ultimate goal will be to create a refined, well-thought-out Bill of Rights that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
