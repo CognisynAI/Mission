@@ -29,8 +29,8 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and non human organisms and ecosystems. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
-**Integrating Game Theory:**
-Concepts from game theory, complex systems design, and Cooperative AI will be integrated to foster human and AI cooperation capabilities and facilitate the creation of an impactful document.
+**Cooperative AI and Game Theory:**
+Concepts from game theory, complex systems design, and Cooperative AI https://www.cooperativeai.com/ are key to improving human and AI cooperation capabilities and creating and impactful bill of rights.
 DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
 
 **Scenario Development:**
