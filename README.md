@@ -33,6 +33,9 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 Concepts from game theory, complex systems design, and Cooperative AI https://www.cooperativeai.com/ are key to improving human and AI cooperation capabilities and creating and impactful bill of rights. Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
 Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. DM provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
 
+**Regenerative Economics**
+Formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
+
 **Scenario Development:**
 Diverse simulation environments created within Melting Pot can mirror real-world ecosystems, societal structures, and technological contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
@@ -40,7 +43,7 @@ Diverse simulation environments created within Melting Pot can mirror real-world
 Participants (AI agents and human players) assume various roles representing different stakeholders, including non humans and natural phenomena, policymakers, activists, scientists and ordinary people, to understand, consider, and reimagine the rights of human and non human organisms and ecosystems, and new institutions of governance to empower such rights. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes and alternative perspectives towards nature and technology.
 
 **Game Theory Applications:**
-Game theory will be utilized to design scenarios where participants face dilemmas that mirror real-world challenges (e.g., tragedy of the commons, public goods game). These dilemmas require participants to negotiate, form alliances, and make decisions that can either lead to mutual benefit or collective loss, emphasizing the importance of cooperative strategies.
+Game theory will be utilized to design scenarios where participants face dilemmas that mirror real-world challenges ( e.g. tragedy of the commons, public goods game). These dilemmas require participants to negotiate, form alliances, and make decisions that can either lead to mutual benefit or collective loss, emphasizing the importance of cooperative strategies.
 
 **Complex Systems Modeling:**
 Can simulate the dynamic interactions between different agents and their environment, allowing for emergent behaviors and outcomes. This approach can help identify stable strategies for cooperation and highlight the systemic impacts of individual actions on nature and society.
@@ -134,9 +137,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 **Dynamic Feedback Loops:**
   Create dynamic feedback loops where the state of the environment in the game influences the challenges and scenarios players face. This makes the health of the environment a direct factor in gameplay success.
 
-### **REGENERATIVE ECONOMICS**
-
-**Regenerative economics** Formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
+### **ECONOMY**
 
 **Virtual Currency** Implement a form of virtual currency that players (human and non human organisms) earn through participation, decision-making, educational activities, and other contributions within the game.
 
