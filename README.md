@@ -8,6 +8,7 @@
 - [COOPERATIVE AI](#COOPERATIVE-AI)
 - [REGENERATIVE ECONOMICS](#REGENERATIVE-ECONOMICS)
 - [ADVANCING COOPERATIVE AI AND HUMAN COOPERATION](#ADVANCING-COOPERATIVE-AI-AND-HUMAN-COOPERATION)
+- [GLOBAL REPRESENTATION](#GLOBAL-REPRESENTATION)
 - [REPRESENTING NATURE IN A SIMULATION](#REPRESENTING-NATURE-IN-A-SIMULATION)
 - [REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING](#REFLECTING-THE-PERSPECTIVE-OF-NATURE-IN-REINFORCEMENT-LEARNING)
 - [ECONOMY](#ECONOMY)
@@ -82,6 +83,24 @@ Outcomes of the game sessions and the evolving draft of the Bill of Rights will 
 Through the game, participants work together to address specific issues, draft clauses, and revise proposals for the Bill of Rights. This process is iterative, with multiple rounds of discussion, simulation, and revision based on the outcomes of previous decisions.
 
 **Consensus Building:** Utilize the framework to identify policies and rights that receive broad support from both AI and human participants, focusing on solutions that balance technological advancement with the protection of nature and human rights.
+
+### **GLOBAL REPRESENTATION**
+
+*to honor, learn, and document practices of natural resource management from lineages of folk and traditional ecological knowledge to understand how a new era of ecological institutions can nurture and legitimize non-Western, non-dualist conceptions of human-environmental relation." Austin Wade Smith
+  
+* Diverse Ecosystems and Cultures:   
+  With accurate geospatial data from around the world, the game can represent a wide range of ecosystems and cultures, allowing players to learn about and engage with different parts of the globe but the 
+  
+* Localized Challenges: 
+  Introduce challenges that are specific to certain geographic regions, encouraging players to understand and address local as well as global environmental and AI-related issues.
+  
+**Data-Driven Decision Making**
+
+* Environmental Impact Analysis:   
+  Players can use the geospatial data to analyze and predict the environmental impact of their decisions, making the gameplay more strategic and data-driven.
+  
+* Urban Planning and Development Scenarios: 
+  Incorporate urban planning and development scenarios where players must balance development needs with environmental conservation, using real-world data to guide their decisions.
 
 ### **REPRESENTING NATURE IN A SIMULATION**
 
@@ -301,23 +320,6 @@ Use real-world geographic data to create specific environmental challenges. For 
 Educational Opportunities:
 Real-world geography can be used for educational modules within the game, teaching players about geography, ecology, and environmental science.
   
-### **GLOBAL REPRESENTATION**
-
-*to honor, learn, and document practices of natural resource management from lineages of folk and traditional ecological knowledge to understand how a new era of ecological institutions can nurture and legitimize non-Western, non-dualist conceptions of human-environmental relation." Austin Wade Smith
-  
-* Diverse Ecosystems and Cultures:   
-  With accurate geospatial data from around the world, the game can represent a wide range of ecosystems and cultures, allowing players to learn about and engage with different parts of the globe but the 
-  
-* Localized Challenges: 
-  Introduce challenges that are specific to certain geographic regions, encouraging players to understand and address local as well as global environmental and AI-related issues.
-  
-**Data-Driven Decision Making**
-
-* Environmental Impact Analysis:   
-  Players can use the geospatial data to analyze and predict the environmental impact of their decisions, making the gameplay more strategic and data-driven.
-  
-* Urban Planning and Development Scenarios: 
-  Incorporate urban planning and development scenarios where players must balance development needs with environmental conservation, using real-world data to guide their decisions.
   
 ### **ACCESSIBILITY AND SCALABILITY**
 
