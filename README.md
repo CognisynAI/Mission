@@ -5,6 +5,7 @@
 
 **CONTENTS:**
 - [MISSION:](#MISSION)
+- [COOPERATIVE AI](#COOPERATIVE-AI}
 - [ADVANCING COOPERATIVE AI AND HUMAN COOPERATION](#ADVANCING-COOPERATIVE-AI-AND-HUMAN-COOPERATION)
 - [REPRESENTING NATURE IN A SIMULATION](#REPRESENTING-NATURE-IN-A-SIMULATION)
 - [REFLECTING THE PERSPECTIVE OF NATURE IN REINFORCEMENT LEARNING](#REFLECTING-THE-PERSPECTIVE-OF-NATURE-IN-REINFORCEMENT-LEARNING)
@@ -29,14 +30,6 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 
 **Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and non human organisms and ecosystems. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
-**Cooperative AI and Game Theory:**
-Concepts from game theory, complex systems design, and [Cooperative AI](https://www.cooperativeai.com/) are key to improving human and AI cooperation capabilities and creating and impactful bill of rights. Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
-Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. DM provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
-
-### **Regenerative Economics**
-[Regenerative Economics](https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
-) formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. 
-
 **Scenario Development:**
 Diverse simulation environments created within Melting Pot can mirror real-world ecosystems, societal structures, and technological contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
@@ -54,6 +47,17 @@ Incorporating AI-driven simulation models can predict the outcomes of certain po
 
 **A Real World Bill of Rights:** 
 The ultimate goal will be to create a refined, well-thought-out Bill of Rights for Nature and People in the AI Era that could be presented to real-world organizations and governments for consideration. The game will not only serve as a platform for drafting a vital document but also act as a global educational tool and a means to foster understanding and consensus in our divided world.
+
+
+### **COOPERATIVE AI:**
+Concepts from game theory, complex systems design, and [Cooperative AI](https://www.cooperativeai.com/) are key to improving human and AI cooperation capabilities and creating and impactful bill of rights. Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
+Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. DM provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
+
+### **REGENERATIVE ECONOMICS**
+[Regenerative Economics](https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
+) formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. 
+
+
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION:**
 Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
