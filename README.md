@@ -284,7 +284,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 **Integration for a Cohesive Experience**
     
 * Combining Technologies:
-  * Integrating these technologies will require considerable effort to ensure that they work together seamlessly, providing an effortless, consistent and fluid experience.
+  * Integrating these technologies will require considerable effort to ensure that they work together seamlessly, providing an effortless, fluid, and consistent experience.
     
 * Balancing Complexity and Accessibility: 
   * While these technologies can significantly enhance the game's realism and interactivity, it's important to balance complexity with accessibility, ensuring that the game remains user-friendly for a diverse audience.
