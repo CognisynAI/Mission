@@ -33,7 +33,7 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 **Scenario-Based Gameplay:** Players face various scenarios, in partnership with AI agents, that impact humans and non human organisms and ecosystems. These scenarios can range from environmental challenges, ethical dilemmas in AI usage, to socio-economic impacts of AI on different communities. Players must navigate these scenarios while drafting the Bill of Rights.
 
 **Scenario Development:**
-Diverse simulation environments created with muliagent simulation frameworks like Melting Potand net Logo can mirror real-world ecosystems, societal structures, and technological and non human contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
+Diverse simulation environments created with multi-agent simulation frameworks like Melting Potand and Net Logo can mirror real-world ecosystems, societal structures, and technological and non human contexts. These scenarios will include elements where AI, nature, and human interests intersect and sometimes conflict, requiring cooperation and negotiation to resolve.
 
 **Role Assignment:**
 Participants (AI agents and human players) assume various roles representing different stakeholders, including non humans and natural phenomena, policymakers, activists, scientists and ordinary people, to understand, consider, and reimagine the rights of human and non human organisms & ecosystems, and new institutions of governance to empower such rights. AI agents can be programmed with varying degrees of cooperation and competitiveness to simulate different societal attitudes and alternative perspectives towards nature and technology.
