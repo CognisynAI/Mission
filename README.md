@@ -89,7 +89,7 @@ Through the game, participants work together to address specific issues, draft c
 *to honor, learn, and document practices of natural resource management from lineages of folk and traditional ecological knowledge to understand how a new era of ecological institutions can nurture and legitimize non-Western, non-dualist conceptions of human-environmental relation." Austin Wade Smith
   
 * Diverse Ecosystems and Cultures:   
-  With accurate geospatial data from around the world, the game can represent a wide range of ecosystems and cultures, allowing players to learn about and engage with different parts of the globe but the 
+  With accurate geospatial data from around the world, the game can represent a wide range of ecosystems and cultures, allowing players to learn about and engage with different parts of the globe.
   
 * Localized Challenges: 
   Introduce challenges that are specific to certain geographic regions, encouraging players to understand and address local as well as global environmental and AI-related issues.
