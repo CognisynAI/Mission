@@ -60,7 +60,7 @@ Important tools for exploration include NetLogo - a multi-agent programmable mod
 ) formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. 
 
 
-### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION:**
+### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION**
 Cooperative AI’s synergies with social sciences, regenerative economics, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
 
 **AI as Negotiation Agents:**
