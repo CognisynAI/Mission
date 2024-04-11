@@ -26,7 +26,7 @@ To build a simulation/game about the future of our planet and AI, bringing toget
 
 **Game Objective:**
 **A Bill of Rights For A More Than Human World in the AI Era**
-Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and People in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus on things like the rights of non human organisms and human rights in the AI era, environmental sustainability, AI governance, ethical use of AI, access to technology, AI and employment, AI and art, and transhuman rights.
+Players from around the world collaborate to draft a comprehensive Bill of Rights for Nature and People in the context of advanced AI technologies. The game will simulate real-world scenarios and challenges, requiring players to negotiate, debate, and reach consensus on things like the rights of non human organisms and ecosystems, & human rights in the AI era, environmental sustainability, AI governance, ethical use of AI, access to technology, AI and employment, AI and art, and transhuman rights.
 
 **Target Audience:** The game will be accessible to a wide range of participants – people living far from or near to nature, farmers, scientists, policymakers, legal experts, technologists, students, and activists. Diversity in participants will enrich the perspectives and solutions proposed.
 
