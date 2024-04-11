@@ -221,7 +221,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 
 **Ethical Considerations**
 * Prevent Monetization and Exploitation:
-  * Design the economy to prevent real-world monetization, ensuring that the game remains a tool for education and collaboration rather than profit.
+  * Design for abundance and collaboration rather than profit.
 
 * Accessibility:
   * Ensure that the economy does not disadvantage players who have less time to invest in the game, maintaining fairness and inclusivity.
