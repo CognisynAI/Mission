@@ -236,7 +236,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 **Reward System for Learning:**
   Implement a reward system that encourages not just game progression but also learning and understanding of the issues at hand.
 
-## **CREATING AN INTERACTIVE EXPERIENCE**
+## **CREATING AN IMMERSIVE INTERACTIVE EXPERIENCE**
 
 * Dynamic Environment Creation:
   * ControlNet can be used to generate diverse and changing environments within the game. This tool, which assists in controlling the generation of images and scenes, can help in creating realistic and dynamic simulations of natural landscapes and urban environments that respond to player actions.
