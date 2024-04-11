@@ -52,9 +52,11 @@ The ultimate goal will be to create a refined, well-thought-out Bill of Rights f
 
 
 ### **COOPERATIVE AI:**
-[Cooperative AI](https://www.cooperativeai.com/) is key to improving human and AI cooperation capabilities and creating and impactful bill of rights. Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
+[Cooperative AI](https://www.cooperativeai.com/) is key to improving human and AI cooperation capabilities and creating and impactful bill of rights. 
 
-Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. DM provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights For A More THan Human World in the AI era involves some innovative steps. 
+Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
+
+Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. Mewlting Pot is a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative and cooperative capabilities of AI, non human organisms/ecosystems, and people. Melting Pot would be a powerful framework in a global simulation/game aimed at cooperatively crafting a Bill of Rights For A More THan Human World in the AI era, but integration would involve some innovative steps. 
 
 ### **REGENERATIVE ECONOMICS**
 [Regenerative Economics](https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
