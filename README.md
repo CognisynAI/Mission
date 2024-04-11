@@ -71,7 +71,7 @@ The design of new ecological institutions that include non human organisms must 
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION**
 
-**Life Centered AI** Cooperative AI’s synergies with regenerative economics, social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment, and define a new paradigm - Life Centered AI.
+**Life Centered AI** Cooperative AI’s synergies with regenerative economics, social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human and non human cooperation capabilities, and AI safety and alignment, and define a new paradigm - Life Centered AI.
 
 **AI as Negotiation Agents:**
 Develop AI agents capable of negotiating with both humans and other AI agents to reach consensual decisions. These agents can use advanced algorithms to propose solutions that maximize collective welfare, learning from interactions to improve their proposals over time.
