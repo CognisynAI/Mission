@@ -33,7 +33,7 @@ Players from around the world collaborate to draft a comprehensive Bill of Right
 Concepts from game theory, complex systems design, and [Cooperative AI](https://www.cooperativeai.com/) are key to improving human and AI cooperation capabilities and creating and impactful bill of rights. Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
 Important tools for exploration include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. DM provides a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative capabilities of AI, non human organisms/ecosystems, and people. Leveraging Melting Pot to create a global simulation/game aimed at cooperatively crafting a Bill of Rights for nature and humans in the AI era involves several innovative steps. 
 
-**Regenerative Economics**
+### **Regenerative Economics**
 [Regenerative Economics](https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
 ) formalize a definition of value which is not predicated upon harvest, but a living world that has value in being alive, and keeping us alive, ie. make the more than human world legible to economics, and rights discourse. Protocols for the stewardship of common resources and public goods in a more-than-human world and the possibility of non-humans to own things. Decentralized protocols for non-human identities. An ecosystem may be a trust or a fund. The design of new ecological institutions that include non human organisms must center on the perspectives and insights of communities that are part of the ecosystem. 
 
@@ -140,7 +140,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 
 ### **ECONOMY**
 
-**Virtual Currency** Implement a form of virtual currency that players (human and non human organisms) earn through participation, decision-making, educational activities, and other contributions within the game.
+**Virtual Currency** Implement a form of virtual currency that players (human and non human organisms and ecosystems) earn through participation, decision-making, educational activities, and other contributions within the game.
 
 **Earned Through Achievements:**
 Currency can be earned by achieving certain milestones, such as:
