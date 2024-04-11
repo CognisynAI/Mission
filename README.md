@@ -52,7 +52,7 @@ The ultimate goal will be to create a refined, well-thought-out Bill of Rights f
 
 
 ### **COOPERATIVE AI:**
-[Cooperative AI](https://www.cooperativeai.com/) is key to improving human and AI cooperation capabilities and creating and impactful bill of rights. 
+[Cooperative AI](https://www.cooperativeai.com/) is key to improving human and AI cooperation capabilities and creating an impactful bill of rights. 
 
 Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
 
