@@ -61,7 +61,7 @@ Important tools for exploration include NetLogo - a multi-agent programmable mod
 
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION:**
-Cooperative AI’s synergies with social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
+Cooperative AI’s synergies with social sciences, regenerative economics, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation capabilities, and AI safety and alignment.
 
 **AI as Negotiation Agents:**
 Develop AI agents capable of negotiating with both humans and other AI agents to reach consensual decisions. These agents can use advanced algorithms to propose solutions that maximize collective welfare, learning from interactions to improve their proposals over time.
