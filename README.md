@@ -1,7 +1,7 @@
 <a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="20%" height="auto"></a> 
 
 
-<a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf"><img src="https://github.com/CognisynAI/Mission/blob/main/images/Life%20Centered%20AI%20-%20Cooperative%20AI%20and%20Regenerative%20Economics.png" width="80" height="auto" ></a>
+<a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf"><img src="https://github.com/CognisynAI/Mission/blob/main/images/Life%20Centered%20AI%20-%20Cooperative%20AI%20and%20Regenerative%20Economics.png" width="80%" height="auto" ></a>
 
 
 
