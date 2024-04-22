@@ -1,7 +1,7 @@
 
 <a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="30%" height="auto"></a> 
 
-<a href="https://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf><img src="https://github.com/CognisynAI/Mission/assets/9198d7c27c4bc2128b38ae80ae6cde4889a11d80"></a>
+<a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf><img src="https://github.com/CognisynAI/Mission/assets/9198d7c27c4bc2128b38ae80ae6cde4889a11d80"></a>
 
 
 **CONTENTS:**
