@@ -4,7 +4,7 @@
 [embed][https://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf][/embed]
 
 
-
+<a href="https://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf><img src="https://github.com/CognisynAI/Mission/assets/9198d7c27c4bc2128b38ae80ae6cde4889a11d80"></a>
 
 
 **CONTENTS:**
