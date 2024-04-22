@@ -2,7 +2,7 @@
 
 [**LIFE CENTERED AI: COOPERATIVE AI and REGENERATIVE ECONOMICS**](http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf)
 
-<a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf"><img src="https://github.com/CognisynAI/Mission/blob/main/images/Life%20Centered%20AI%20-%20Cooperative%20AI%20and%20Regenerative%20Economics.png" width="60%" height="auto" ></a>
+<a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf"><img src="https://github.com/CognisynAI/Mission/blob/main/images/Life%20Centered%20AI%20-%20Cooperative%20AI%20and%20Regenerative%20Economics.png" width="50%" height="auto" ></a>
 
 
 
