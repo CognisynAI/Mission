@@ -290,7 +290,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 * Interactive Elements:
   * NeRFs will be used to create interactive elements within the game that respond in real-time to changes in the environment or actions by the players, adding a layer of depth and interactivity to the game experience.
     
-**Avatar Creatione**
+**Avatar Creation**
   * Ready Player Me capabilities for players to create their own custom avatars.
     
 * Social Interaction: 
