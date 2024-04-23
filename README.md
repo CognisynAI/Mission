@@ -179,7 +179,7 @@ Integrate real-time environmental data into the Reinforcement Learning algorithm
 
 ### **ECONOMY**
 
-**Virtual Currency** Implement a form of virtual currency that players (human and non human organisms and ecosystems) earn through participation, decision-making, educational activities, and other contributions within the game.
+**Currency** players (human and non human organisms and ecosystems) earn through participation, decision-making, educational activities, and other contributions within the game.
 
 **Earned Through Achievements:**
 Currency can be earned by achieving certain milestones, such as:
@@ -290,8 +290,7 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 * Interactive Elements:
   * NeRFs will be used to create interactive elements within the game that respond in real-time to changes in the environment or actions by the players, adding a layer of depth and interactivity to the game experience.
     
-**ReadyPlayerMe**
-* Avatar Creation: 
+**Avatar Creatione**
   * Ready Player Me capabilities for players to create their own custom avatars.
     
 * Social Interaction: 
@@ -317,14 +316,12 @@ The amount of currency earned can be tied to the impact of a player's decisions 
 
 ### **REAL WORLD GEOSPATIAL MAPPING**
     
-Accurate Terrain Representation: e.g. BlackShark.ai's technology, which can convert satellite imagery into 3D maps, can be used to accurately recreate real-world terrains and landscapes in the game. This would provide players with a more realistic and relatable environment.
+Accurate Terrain Representation: e.g. Open GeoWeb.netowrk or BlackShark.ai's technology, which can convert satellite imagery into 3D maps, can be used to accurately recreate real-world terrains and landscapes in the game. This would provide players with a more realistic and relatable environment.
     
 Dynamic Environmental Simulation: The multidimensional data can be used to simulate environmental changes over time, reflecting the impact of player decisions and natural processes on the game's world.
     
-Integration with Unreal Engine
-    
-High-Quality Visuals: Unreal Engine is known for its high-fidelity graphics. Working with BlackShark.ai's geospatial data with Unreal Engine can result in visually stunning and immersive environments. 
-  
+Integration with Unreal Engine or open game engine.
+   
 Interactive and Responsive Environments: 
 The combination allows for the creation of environments that are not only visually realistic but also interactive. Players can see the direct impact of their actions on the virtual world in real-time.
   
