@@ -1,8 +1,7 @@
 <a href="http://cognisyn.ai"><img src="https://github.com/CognisynAI/Mission/assets/153446793/a8658738-85fb-4e3b-aa7e-3e8711166346" width="15%" height="auto"></a> 
 
-<a href="https://www.linkedin.com/posts/tishshute_new-intelligence-model-could-upend-biology-activity-7237553719070834689-A-1X?utm_source=share&utm_medium=member_desktop"><img src="https://cognisyn.ai/wp-content/uploads/2024/09/Screenshot-2024-09-07-at-2.54.34 PM.png" width="50%" height="auto"></a>
+<a href="https://www.linkedin.com/posts/tishshute_new-intelligence-model-could-upend-biology-activity-7237553719070834689-A-1X?utm_source=share&utm_medium=member_desktop"><img src="https://cognisyn.ai/wp-content/uploads/2024/09/Screenshot-2024-09-07-at-2.54.34 PM.png" width="58%" height="auto"></a>
 
-[**LIFE CENTERED AI: COOPERATIVE AI and REGENERATIVE ECONOMICS**](http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf)
 
 <a href="http://cognisyn.ai/wp-content/uploads/2024/04/Life-Centered-AI_04_19-compressed.pdf"><img src="https://github.com/CognisynAI/Mission/blob/main/images/Life%20Centered%20AI%20-%20Cooperative%20AI%20and%20Regenerative%20Economics.png" width="58%" height="auto" ></a>
 
