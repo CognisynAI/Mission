@@ -63,7 +63,7 @@ The ultimate goal will be to create a refined, well-thought-out Bill of Rights f
 
 Cooperative AI differs from current approaches to AI development where cooperation is a super structure built on a single agent system. Instead, Cooperative AI proposes a multi-agent systems approach, drawing on game theory, complex systems design, environmental science, law, ethics, policy work, education, learning, and inclusivity to advance both AI cooperation and human cooperation.
 
-Important tools include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. Melting Pot is a rich platform for simulating interactions in diverse scenarios, enabling better understanding and improvement of the collaborative and cooperative capabilities of AI, non human organisms/ecosystems, and people. Melting Pot would be a powerful framework to build on to create a global simulation/game aimed at cooperatively crafting a Bill of Rights For A More THan Human World in the AI era, but integration would involve some innovative steps. 
+Important tools include NetLogo - a multi-agent programmable modeling environment, and DeepMind's Melting Pot - a multi-agent simulation framework designed to test the cooperative and competitive abilities of AI agents in complex, dynamic environments. 
 
 ### **REGENERATIVE ECONOMICS**
 [Regenerative Economics](https://mirror.xyz/austinwadesmith.eth/tv9z1XXrtqQxDIxE8FygZ_W39NpkQJkVfrtjCtdbzA8
@@ -78,7 +78,7 @@ The design of new ecological institutions that include non human organisms must 
 
 ### **ADVANCING COOPERATIVE AI AND HUMAN COOPERATION**
 
-**Life Centered AI:** Cooperative AI’s synergies with regenerative economics, social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation, human and non human cooperation, AI safety and alignment, and define a new paradigm - Life Centered AI.
+**Life Centered AI:** Cooperative AI’s synergies with regenerative economics, social sciences, policy, evolutionary biology, and AI simulations using game theory, and complex system design can advance cooperative AI, human cooperation, human and non human cooperation, AI safety and alignment, and define a new paradigm for the future of intelligence on the continum of natural and artificial intelligence.
 
 **AI as Negotiation Agents:**
 Develop AI agents capable of negotiating with both humans and other AI agents to reach consensual decisions. These agents can use advanced algorithms to propose solutions that maximize collective welfare, learning from interactions to improve their proposals over time.
